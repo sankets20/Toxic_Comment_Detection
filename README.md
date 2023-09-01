@@ -24,4 +24,4 @@ Follow the instructions in the README to train the classifier on your dataset an
 Example Comments:
 
 The project comes with example comments that showcase the model's ability to classify text into "toxic" or "not toxic" categories. It provides a practical demonstration of how the model works.
-#Dataset:
+#Dataset:https://drive.google.com/file/d/1hPdf3MUVD-aeaosOAaYxtiisqXpB24Pa/view?usp=sharing
